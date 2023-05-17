@@ -1,0 +1,22 @@
+{
+  "newFileLocation": "current",
+  "livePreview": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "attachmentFolderPath": "_assets/_attachments",
+  "userIgnoreFilters": [
+    "Templates/",
+    "Daily Notes/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showFrontmatter": true,
+  "strictLineBreaks": false
+}

@@ -1,0 +1,13 @@
+/* Hide /Attachments folder */
+/*.nav-folder.mod-root
+  > .nav-folder-children
+  .nav-folder
+  > .nav-folder-title[data-path*='Attachments'],
+.nav-folder.mod-root
+  > .nav-folder-children
+  .nav-folder
+  > .nav-folder-title[data-path*='Attachments']
+  + .nav-folder-children {
+  display: none;
+}
+*/

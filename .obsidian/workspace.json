@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "712251aa26c8960a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc21148080668503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4da115d9e4549337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concept Drift.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7aab43d945ad391",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e41457252086423",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1effcaeefbf3fb36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e303bcfcf0a7888",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1f702889e33d418",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "571ceedc9a561642",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "31f0e4a13f940d81",
+    "type": "split",
+    "children": [
+      {
+        "id": "e247f5a902e0d83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6e56a39cd8c65e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concept Drift.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19522ed264e8f559",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concept Drift.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "515a7059d5ceab7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3af352f7eb9d73d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2df65642a93861f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concept Drift.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4da115d9e4549337",
+  "lastOpenFiles": [
+    "Concept Drift in Malware Detection Domain.md",
+    "Concept Drift.md",
+    "_assets/_citations/references.md",
+    "_assets/_templates",
+    "Assets/_attachments/Pasted image 20230515181826.png",
+    "Malware Analysis.md",
+    "Assets/_attachments/Pasted image 20230517154259.png",
+    "Assets/_attachments",
+    "Attachments/Pasted image 20230517154144.png",
+    "Assets/Obsidian_jM6vCIWm07.png",
+    "Assets/_citations/References.md",
+    "Obsidian_N9ixZRmAav.png",
+    "Attachments",
+    "Attachment",
+    "New folder",
+    "_attachments",
+    "Index.md",
+    "Obsidian_oMDD3VxVKW.png",
+    "Obsidian_ZHeAGbV5M8.png",
+    "Assets/_citations/1.md",
+    "Draft.md",
+    "Pasted image 20230516211429.png",
+    "New shortcut.lnk",
+    "Citations/5.md",
+    "Citations/@1.md",
+    "Citations/@Drebin.md",
+    "Assets/Excalidraw/2023-05-16_21.01.06.excalidraw.md",
+    "Assets/_excalidraw",
+    "Assets/Excalidraw/2023-05-16_19.38.43.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw/2023-05-16_19.37.44.excalidraw.md",
+    "Excalidraw",
+    "Citations/@RN9.md",
+    "Citations/@RN10.md",
+    "Assets/_citations",
+    "Pasted image 20230515181742.png",
+    "Pasted image 20230515181713.png",
+    "Initial Review/3. Literature Review.md",
+    "Initial Review/99. References.md",
+    "Initial Review/2. Introduction.md",
+    "Initial Review/0. Summary.md",
+    "Differentiation/Malware Definition and Families.md",
+    "empty files.md",
+    "Differentiation/0. Outline.md",
+    "Daily Notes/2022-12-07.md",
+    "Differentiation/1. Concept Drift.md",
+    "Differentiation/99. References.md",
+    "Initial Review/Presentation.canvas"
+  ]
+}

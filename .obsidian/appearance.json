@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "cssTheme": "Typewriter",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "theme": "moonstone",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "obsidian",
+    "custom-theme"
+  ]
+}
